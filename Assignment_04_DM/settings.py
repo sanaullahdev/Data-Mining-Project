@@ -25,7 +25,7 @@ SECRET_KEY = 'eesloc-b#(*^cy^=@6(6hk_gsubb3*+qi48&vqt6sg((s&betg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
